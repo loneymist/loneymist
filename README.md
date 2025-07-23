@@ -5,7 +5,7 @@
 <a href="https://twitter.com/fileofishman">
     <img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter Badge"/>
   </a>
- <a href="https://t.me/megaworkaem">
+ <a href="https://t.me/loneymst">
     <img src="https://img.shields.io/badge/-Telegram-2AABEE" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/loneymist">
